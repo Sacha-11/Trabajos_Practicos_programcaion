@@ -17,4 +17,5 @@ class Personaje:
             else:
                 print ("El personaje no  puede correr ")
                 
-            def recuperarse (self):
+        def recuperarse (self):
+            #tengo q definir algo
