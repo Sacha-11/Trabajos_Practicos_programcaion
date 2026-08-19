@@ -7,7 +7,7 @@ menu = '''
 
 while  True:
     print(menu)
-    opcion = int(input("Ingrese una opcion"))
+    opcion = int(input("Ingrese una opcion: "))
 
     if opcion == 1:
         nombre=input("ingrese el nombre: ")
